@@ -9,11 +9,11 @@
 <samp>I am a Front-end developer 💻, passionate about what I do ❤. I started early in my life as a developer having my first contact with programming at the age of fourteen. After that I liked the area, getting to work in a consultancy as a developer when I was eighteen.</samp>
 
 ## Curiosities
-- <samp>I'm a EU-citizen, Brazilian 🇧🇷 and Portuguese 🇵🇹</samp>
+- <samp>I'm an EU-citizen, Brazilian 🇧🇷 and Portuguese 🇵🇹</samp>
 - <samp>I love to play and watch football ⚽
 - <samp>Passionate about technology and solving problems with different resolutions in my codes 👨‍💻</samp>
 - <samp>I love to learn and teach 👨‍🏫</samp>
-- <samp>Traveling, visiting other places ✈️ and being with family and friends are things that I really appreciate 👨‍👩‍👦‍👦</samp>
+- <samp>Traveling, visiting other places ✈️, and being with family and friends are things that I really appreciate 👨‍👩‍👦‍👦</samp>
 
 <!-- Stats about me on Github -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlanes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
