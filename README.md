@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mario.lanesjr@gmail.com)](mailto:mario.lanesjr@gmail.com)
 
 ## About Me
-<samp>I am a Front-end developer 💻, passionate about what I do ❤. I started early in my life as a developer having my first contact with programming at the age of fourteen. After that I liked the area, getting to work in a consultancy as a developer when I was eighteen.</samp>
+<samp>I am a Software Developer 💻, passionate about what I do ❤. I started early in my life as a developer having my first contact with programming at the age of fourteen. After that I liked the area, getting to work in a consultancy as a developer when I was eighteen.</samp>
 
 ## Curiosities
 - <samp>I'm an EU-citizen, Brazilian 🇧🇷 and Portuguese 🇵🇹</samp>
