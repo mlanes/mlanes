@@ -3,6 +3,7 @@
 <!-- Social Media -->
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mlanes)](https://github.com/mlanes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariolanes/)](https://www.linkedin.com/in/mariolanes/)
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-000?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/mlanes)](https://codepen.io/mlanes)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mario.lanesjr@gmail.com)](mailto:mario.lanesjr@gmail.com)
 
 ## About Me
