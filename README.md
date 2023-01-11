@@ -8,9 +8,11 @@
 ![](https://komarev.com/ghpvc/?username=mlanes&style=flat-square) 
 
 ## About Me
+
 <samp>I am a Software Developer 💻, passionate about what I do ❤. I started early in my life as a developer having my first contact with programming at the age of fourteen. After that I liked the area, getting to work in a consultancy as a developer when I was eighteen.</samp>
 
 ## Curiosities
+
 - <samp>I am an EU-citizen, Brazilian 🇧🇷 and Portuguese 🇵🇹</samp>
 - <samp>I love to play and watch football ⚽
 - <samp>Passionate about technology and solving problems with different resolutions in my codes 👨‍💻</samp>
@@ -18,6 +20,8 @@
 - <samp>Traveling, visiting other places ✈️, and being with family and friends are things that I really appreciate 👨‍👩‍👦‍👦</samp>
 
 <!-- Stats about me on Github -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlanes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)__
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mlanes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)__
-![](https://github-readme-streak-stats.herokuapp.com/?user=mlanes&theme=radical&hide_border=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlanes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mlanes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mlanes&theme=radical&hide_border=false) 
