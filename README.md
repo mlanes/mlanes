@@ -18,6 +18,6 @@
 - <samp>Traveling, visiting other places ✈️, and being with family and friends are things that I really appreciate 👨‍👩‍👦‍👦</samp>
 
 <!-- Stats about me on Github -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlanes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mlanes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlanes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)__
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mlanes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)__
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mlanes&theme=radical&hide_border=false)
