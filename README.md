@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate **Software Developer** who loves creating elegant solutions and learning new technologies. My journey in programming began at  **14 years old** , and I've been dedicated to software development ever since. At  **18** , I landed my first professional role as a developer in a consultancy, where I gained valuable real-world experience.
+I’m a passionate **Software Developer** who loves creating elegant solutions and learning new technologies. My journey in programming began at  **14 years old** , and I've been dedicated to software development ever since. At  **18**, I landed my first professional role as a developer in a consultancy, where I gained valuable real-world experience.
 
 ## 🚀 Skills & Interests
 
