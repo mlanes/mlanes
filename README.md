@@ -1,7 +1,3 @@
-Here's an improved and polished version of your GitHub README, incorporating structure, clarity, and a friendly professional tone:
-
----
-
 # 👋 Hi, I'm **Mario Lanes**
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mlanes)](https://github.com/mlanes)
@@ -10,13 +6,9 @@ Here's an improved and polished version of your GitHub README, incorporating str
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mario.lanesjr@gmail.com)](mailto:mario.lanesjr@gmail.com)
 ![](https://komarev.com/ghpvc/?username=mlanes&style=flat-square)
 
----
-
 ## 👨‍💻 About Me
 
 I’m a passionate **Software Developer** who loves creating elegant solutions and learning new technologies. My journey in programming began at  **14 years old** , and I've been dedicated to software development ever since. At  **18** , I landed my first professional role as a developer in a consultancy, where I gained valuable real-world experience.
-
----
 
 ## 🚀 Skills & Interests
 
@@ -26,10 +18,8 @@ I’m a passionate **Software Developer** who loves creating elegant solutions a
 * 📚 **Continuous Learning & Teaching**
 * 🤝 **Collaboration & Teamwork**
 
----
-
 ## 🎯 Fun Facts About Me
 
-* 🇧🇷 Brazilian and 🇵🇹 Portuguese dual citizen (EU)
+* 🇧🇷 Brazilian and 🇵🇹 Portuguese dual citizen (EU) living in the UK 🇬🇧
 * ⚽ Football enthusiast—both playing and watching!
 * ✈️ Love traveling, exploring new places, and experiencing different cultures
