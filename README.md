@@ -20,6 +20,6 @@ I’m a passionate **Software Developer** who loves creating elegant solutions a
 
 ## 🎯 Fun Facts About Me
 
-* 🇧🇷 Brazilian and 🇵🇹 Portuguese dual citizen (EU) living in the UK 🇬🇧
+* 🇧🇷 Brazilian living in the UK 🇬🇧
 * ⚽ Football enthusiast—both playing and watching!
 * ✈️ Love traveling, exploring new places, and experiencing different cultures
